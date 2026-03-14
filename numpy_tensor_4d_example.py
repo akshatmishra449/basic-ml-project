@@ -1,0 +1,5 @@
+import numpy as np
+
+tensor_4d = np.random.rand(2, 3, 3, 1)
+
+print("Shape:", tensor_4d.shape)
